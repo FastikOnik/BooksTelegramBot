@@ -1,6 +1,3 @@
-Конечно, вот простой текст, который вы можете использовать для описания вашего бота на GitHub:
-
-```
 # Library Bot
 
 Welcome to the Library Bot GitHub Repository! 🤖📚
@@ -29,11 +26,10 @@ To interact with the bot, use the following commands:
 
 To run the bot locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/library-bot.git`
-2. Install dependencies: `pip install -r requirements.txt`
+1. Clone the repository: `git clone ...`
+2. Install dependencies: `start install_dependencies.sh`
 3. Run the bot: `python bot.py`
 
 Feel free to explore and enhance the bot as needed! Contributions are welcome. 😊
 
 Happy coding!
-```
