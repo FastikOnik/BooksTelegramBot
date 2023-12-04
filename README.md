@@ -1,41 +1,39 @@
-# BooksTelegramBot
+Конечно, вот простой текст, который вы можете использовать для описания вашего бота на GitHub:
 
-    <h1>Library Bot</h1>
+```
+# Library Bot
 
-    <p>Welcome to the Library Bot GitHub Repository! 🤖📚</p>
+Welcome to the Library Bot GitHub Repository! 🤖📚
 
-    <h2>About</h2>
+## About
 
-    <p>This bot is designed to manage books in a library. Users can add and delete books, search for books by title or author, and view a list of books. The bot uses the aiogram library for Telegram bot development and SQLite3 for data storage.</p>
+This bot is designed to manage books in a library. Users can add and delete books, search for books by title or author, and view a list of books. The bot uses the aiogram library for Telegram bot development and SQLite3 for data storage.
 
-    <h2>Features</h2>
+## Features
 
-    <ul>
-        <li>Add new books with title, author, description, and genre.</li>
-        <li>View a list of all books (title and author).</li>
-        <li>Search for books by title or author.</li>
-        <li>Delete books from the library.</li>
-    </ul>
+- Add new books with title, author, description, and genre.
+- View a list of all books (title and author).
+- Search for books by title or author.
+- Delete books from the library.
 
-    <h2>How to Use</h2>
+## How to Use
 
-    <p>To interact with the bot, use the following commands:</p>
+To interact with the bot, use the following commands:
 
-    <code>/add</code> - Add a new book to the library.<br>
-    <code>/list</code> - View a list of all books.<br>
-    <code>/search</code> - Search for books by title or author.<br>
-    <code>/delete</code> - Delete a book from the library.<br>
+- `/add` - Add a new book to the library.
+- `/list` - View a list of all books.
+- `/search` - Search for books by title or author.
+- `/delete` - Delete a book from the library.
 
-    <h2>Installation</h2>
+## Installation
 
-    <p>To run the bot locally, follow these steps:</p>
+To run the bot locally, follow these steps:
 
-    <ol>
-        <li>Clone the repository: <code>git clone https://github.com/your-username/library-bot.git</code></li>
-        <li>Install dependencies: <code>pip install -r requirements.txt</code></li>
-        <li>Run the bot: <code>python bot.py</code></li>
-    </ol>
+1. Clone the repository: `git clone https://github.com/your-username/library-bot.git`
+2. Install dependencies: `pip install -r requirements.txt`
+3. Run the bot: `python bot.py`
 
-    <p>Feel free to explore and enhance the bot as needed! Contributions are welcome. 😊</p>
+Feel free to explore and enhance the bot as needed! Contributions are welcome. 😊
 
-    <em>Happy coding!</em>
+Happy coding!
+```
