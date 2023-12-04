@@ -26,7 +26,7 @@ To interact with the bot, use the following commands:
 
 To run the bot locally, follow these steps:
 
-1. Clone the repository: `git clone ...`
+1. Clone the repository: `git clone https://github.com/FastikOnik/BooksTelegramBot.git`
 2. Install dependencies: `start install_dependencies.sh`
 3. Run the bot: `python bot.py`
 
